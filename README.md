@@ -2,7 +2,7 @@
   A simple code about Mouse controler based Gesture
 ## Requirment
   - Python: 3.6  
-  - OS: Mac  
+  - OS: Mac、Windows10、Linux 5.4(ubuntu 19.10)
   - Opencv: 3.6.2.17  
   - PyAutoGUI: 0.9.50  
 ## Instructions
